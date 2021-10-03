@@ -5,19 +5,22 @@
 Here is a simple landing page/portfolio example with a dark/light mode switch.
 The rise of the dark mode has become almost a default feature at this point. In this project you can see how you can achieve this with vanilla JS and CSS.
 You can apply this mode to your own projects as an extra feature.
+You can save your preferred theme to local storage on your browser.
 If you're like me and you like to work at night, dark mode is almost essential.
+Please see the _Built With_ section to see the tools used for this project.
 
 ## Preview
 
-![Initial view](media/image1.png)
-![Final view](media/image2.png)
+![Initial view](media/light.gif)
+![Final view](media/dark.gif)
 
 ## Built With
 
 - [CSS variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Undraw Illustrations](https://undraw.co/illustrations)
+- [Hero Pattern](https://www.heropatterns.com)
 - [Toggle Switch](https://www.w3schools.com/howto/howto_css_switch.asp)
-- [onchange Evenet](https://www.w3schools.com/jsref/event_onchange.asp)
+- [onchange Event](https://www.w3schools.com/jsref/event_onchange.asp)
 - [Document Element](https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement)
 - [Fontawesome icons](https://fontawesome.com/v5.15/icons?d=gallery&q=close&m=free)
 
@@ -62,5 +65,3 @@ SOFTWARE.
 ## Contact
 
 shay[dot]asanova[at]gmail[dot]com
-
-## Credits
